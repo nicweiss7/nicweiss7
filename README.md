@@ -58,3 +58,17 @@ Methods:
 - Convergence analysis
 
 - Stability analysis
+
+### Applied Time Series Analysis
+
+Implementation and empirical analysis of econometric time series models in Python.
+
+Methods:
+
+- AR and MA modelling
+- Least Squares and Maximum Likelihood estimation
+- ACF and PACF diagnostics
+- AIC, HQ and Schwarz model selection
+- Residual and specification testing
+- Augmented Dickey-Fuller unit root testing
+- Monte Carlo simulation
